@@ -18,7 +18,7 @@ lab:
 
 ### タスク1.1 – ソリューションのダウンロード
 
-1. `https://github.com/MicrosoftLearning/mslearn-copilotstudio/raw/main/Allfiles/Bookings_1_0_0_0.zip`にアクセスして、**Bookings_1_0_0_0.zip**ファイルをダウンロードします。
+1. `https://ctctedu.blob.core.windows.net/share/Bookings_1_0_0_0.zip`にアクセスして、**Bookings_1_0_0_0.zip**ファイルをダウンロードします。
 
 ### タスク1.2 – ソリューションのインポート
 
